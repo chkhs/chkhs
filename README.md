@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chkhs (cheikh Sy)
+- 👋 Hi, I’m @chkhs (Cheikh Sy)
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Web development @zerotomastery.io
 - 💞️ I’m looking to collaborate on any web dev projects
